@@ -1,10 +1,10 @@
 # DDMarker
 
-Diagnose and Detect Markers in Extracellular Circulating
+Diagnosed and Detected Markers in Extracellular Circulating
 
 # Description
 
-Diagnose and Detect Markers in Extracellular Circulating is a homo sapiens deductive system solving the markers in extracellular circulating. It entails the symbols of markers, like the genes, the proteins, the micro RNAs, and the isoforms, whether can be diagnose and detect in extracellular circulating, especially the blood serum and the urine for the biological and medicine significance. With the help of a homo sapiens annotation database in DDMarkerData package, DDMarker can even diagnose and detect the sequence among the genes, the proteins, the micro RNAs, and the isoforms. There are two main function in this package, the ddmarker, and the MMC, short for Minimal Metabolize Circulation. MMC entails the markers among the minimal metabolize circulation.
+Diagnosed and Detected Markers in Extracellular Circulating is a homo sapiens deductive system solving the markers in extracellular circulating. It entails the symbols of markers, like the genes, the proteins, the micro RNAs, and the isoforms, whether can be diagnose and detect in extracellular circulating, especially the blood serum and the urine for the biological and medicine significance. With the help of a homo sapiens annotation database in DDMarkerData package, DDMarker can even diagnose and detect the sequence among the genes, the proteins, the micro RNAs, and the isoforms. There are two main function in this package, the ddmarker, and the MMC, short for Minimal Metabolize Circulation. MMC entails the markers among the minimal metabolize circulation.
 
 ## Installation
 
