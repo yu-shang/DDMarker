@@ -27,3 +27,18 @@ citation("DDMarker");
 + LinkingTo: Rcpp
 + LazyLoad: yes
 + LazyData: true
+
+
+-- LOG
+- DDMarker 1.0, 05/27/2015,
+- DDMarker 1.1, 08/27/2015,
+- DDMarker 1.2, 12/28/2015,
+- DDMarker 1.3, 01/12/2016,
+- DDMarker 1.4, 03/12/2016,
+- DDMarker 1.4.1, 04/01/2016, bug fixed;
+- DDMarker 1.4.2, 05/02/2016, bug fixed;
+- DDMarker 1.4.3, 05/23/2016, bug fixed;
+- DDMarker 1.5, 05/27/2016, bug fixed;
+
+- DDMarker 2.0, 07/07/2016,
+- DDMarker 2.1, 07/12/2016,
